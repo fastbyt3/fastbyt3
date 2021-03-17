@@ -6,6 +6,10 @@
 
 🐱‍👤I'm also an active player in THM and HTB
 
+![fastbyte](https://www.hackthebox.eu/badge/image/348592)
+
+
+
 🛠 Programming languages known: Python, C, C++, Java, assembly(learning in progress)
 
 ✌ Always open for intresting talks : 
