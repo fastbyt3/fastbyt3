@@ -10,7 +10,7 @@
 
 
 
-🛠 Programming languages known: Python, C, C++, Java, assembly(learning in progress)
+🛠 Programming languages known: Python, C, C++, Java, Go
 
 ✌ Always open for intresting talks : 
   - Ping me on discord: `Fastbyte#9952` 
