@@ -1,16 +1,13 @@
 **Hello world**
 
-✨I'm Aldeesh a.k.a _fastbyt3_, a computer science student interested in infosec🐱‍💻
+✨I'm Aldeesh a.k.a _fastbyt3_, a computer science student interested in infosec
 
 ❤ I love playing CTFs 
 
-🐱‍👤I'm also an active player in THM and HTB
+I'm also an active player in THM and HTB
 
 ![fastbyte](https://www.hackthebox.eu/badge/image/348592)
 
-
-
-🛠 Programming languages known: Python, C, C++, Java, Go
 
 ✌ Always open for intresting talks : 
   - Ping me on discord: `Fastbyte#9952` 
